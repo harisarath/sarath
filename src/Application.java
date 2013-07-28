@@ -6,6 +6,7 @@ public class Application {
 		myNumber = 88;
 		 
 		System.out.println(myNumber);
+		System.out.println("above is my number");
 	}
 
 }
